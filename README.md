@@ -1,4 +1,4 @@
-# Binary-addtioin-using-Liquid-State-Machine
+# Binary-Addition-with-Liquid-State-Machine
 
 ## Aim of this project:
  To observe the behavior of Echo State Network (ESM) or Liquid State Machine (LSM) via building and training a binary digit addition network.
